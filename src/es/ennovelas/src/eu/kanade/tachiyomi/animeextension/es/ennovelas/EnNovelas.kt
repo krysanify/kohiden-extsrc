@@ -41,7 +41,7 @@ class EnNovelas : ConfigurableAnimeSource, ParsedAnimeHttpSource() {
 
     override val name = "EnNovelas"
 
-    override val baseUrl = "https://tv.ennovelas.net/"
+    override val baseUrl = "https://ts.ennovelas.net/"
 
     override val lang = "es"
 
